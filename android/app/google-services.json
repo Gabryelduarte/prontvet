@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1026383052853",
+    "project_id": "prontvet-218a9",
+    "storage_bucket": "prontvet-218a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026383052853:android:36423b64481d7ac9a5717c",
+        "android_client_info": {
+          "package_name": "com.example.pront"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZFKUKsW4oH3WrsCJWdZwf9mbVCvLvldc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026383052853:android:98664b17be8d1ca4a5717c",
+        "android_client_info": {
+          "package_name": "com.example.prontvet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZFKUKsW4oH3WrsCJWdZwf9mbVCvLvldc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
